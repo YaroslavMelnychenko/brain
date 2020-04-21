@@ -1,0 +1,2 @@
+# brain
+A simple neural network based on Brain.js
